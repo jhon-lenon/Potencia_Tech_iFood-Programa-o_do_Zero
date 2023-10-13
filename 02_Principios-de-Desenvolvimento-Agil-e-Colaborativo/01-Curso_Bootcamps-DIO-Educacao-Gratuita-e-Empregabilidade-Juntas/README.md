@@ -8,3 +8,8 @@
         🔹Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!   
         🔹Artigo - Como Gerenciar o Seu Tempo no Bootcamp   
         🔹Materiais Complementares   
+
+### 🤝Orientado Por:
+<a href="https://www.dio.me/users/falvojr"> <b> Venilton FalvoJr </b> </a>   
+[![Linkedin Badge](https://img.shields.io/badge/-Venilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/falvojr/)](https://www.linkedin.com/in/falvojr/) 
+[![GitHub Badge](https://img.shields.io/badge/-Venilton-grey?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/falvojr)](https://github.com/falvojr)
